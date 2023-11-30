@@ -16,7 +16,7 @@
 ##
 
 - 🔭 Hoje sou estudante no curso de Desenvolvimento de Sistema
-- 🌱 Estudando HTML, Css e Python
+- 🌱 Estudando HTML, Css, Python e Sql
 - 😄 Pronouns: ela/dela
 
 
