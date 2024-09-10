@@ -15,8 +15,8 @@
 
 ##
 
-- 🔭 Desenvolvedora 
-- 🌱 Estudando HTML, Css, JavaScrip, Python e Sql
+- 🔭 Desenvolvedora Front-End
+- 🌱 HTML, Css, JavaScrip, Python e Sql
 - 😄 Pronouns: ela/dela
 
 
