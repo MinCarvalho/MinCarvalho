@@ -16,7 +16,7 @@
 ##
 
 - 🔭 Desenvolvedora 
-- 🌱 HTML, Css, JavaScrip, Python, Sql e c#
+- 🌱 HTML, Css, JavaScrip, Python, Sql e C#
 - 😄 Pronouns: ela/dela
 
 
